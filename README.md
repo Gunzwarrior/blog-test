@@ -1,1 +1,1 @@
-# blog-test
+This is an assignment to practice using syntax in HTML.
